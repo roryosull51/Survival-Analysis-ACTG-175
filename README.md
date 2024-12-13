@@ -21,6 +21,6 @@ The dataset originates from Kaggle: AIDS Clinical Trials Group Study 175. It inc
 - Model evaluation reveals violations of the proportional hazards assumption, emphasising the need for advanced modelling.
 
 ### Repository Structure
-data/: AIDS_ClinicalTrial_GroupStudy175.csv contains the Kaggle dataset.
-scripts/: ACTG_code.R includes the R script.
-docs/: Final report (ACTG_report.pdf).
+- data/: AIDS_ClinicalTrial_GroupStudy175.csv contains the Kaggle dataset.
+- scripts/: ACTG_code.R includes the R script.
+- docs/: Final report (ACTG_report.pdf).
